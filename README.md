@@ -1,19 +1,5 @@
 <div align="center">
-  <svg width="200" height="200">
-    <defs>
-      <clipPath id="circleView">
-        <circle cx="100" cy="100" r="100" />
-      </clipPath>
-    </defs>
-    <image
-      x="0"
-      y="0"
-      width="200"
-      height="200"
-      xlink:href="https://avatars.githubusercontent.com/u/125145871?s=400&u=78b6a3ca54b8978360f6ac0879287730a7a97676&v=4"
-      clip-path="url(#circleView)"
-    />
-  </svg>
+  <img height="200" src="https://avatars.githubusercontent.com/u/125145871?s=400&u=78b6a3ca54b8978360f6ac0879287730a7a97676&v=4" style="border-radius: 50%;" />
 </div>
 
 ###
