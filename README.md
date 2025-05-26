@@ -1,26 +1,47 @@
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/125145871?s=400&u=78b6a3ca54b8978360f6ac0879287730a7a97676&v=4" style="border-radius: 50%;" />
-</div>
+# 👋 Hi, I'm Konor
 
-###
+**Industrial Software Developer** | Chemical Engineering @ UNAM  
+Building the bridge between industrial hardware and modern software.
 
-# Hi there 👋, I'm Konor!
-I'm a passionate Full Stack Developer with a knack for building dynamic, user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+---
 
-🚀 Skills and Technologies:
-+ Front-end: HTML, CSS, JavaScript, React, Angular, Vue.js
-+ Back-end: Node.js, Express, Django, Ruby on Rails
-+ Databases: MySQL, PostgreSQL, MongoDB
-+ Version Control: Git, GitHub
-+ Tools & Platforms: Docker, AWS, Firebase, Jenkins
+## 👨‍💻 About Me
 
-🌱 What I'm Learning:
-+ Advanced cloud computing with AWS
-+ Building scalable microservices
-+ Enhancing UI/UX design skills
+I specialize in automation, monitoring, and process control for the chemical and manufacturing industries.  
+By combining my background in chemical engineering with modern stacks like **FastAPI, Django, React**, and industrial protocols (**SCADA, Modbus**), I create robust solutions that make machines smarter and processes more efficient.
 
-💡 Interests:
-+ Open-source contributions
-+ Exploring new technologies
-+ Participating in hackathons
-+ Blogging about tech and coding
+Currently, I am finishing my degree at **UNAM** and collaborating on control systems and SCADA-style applications. Let’s build something that connects the physical and digital worlds!
+
+---
+
+## 🛠️ Top Skills
+
+- **Languages:** Python, JavaScript, TypeScript, Rust
+- **Frameworks:** FastAPI, Django, React, Tauri
+- **Industrial:** SCADA, Modbus, Automation, Process Control
+
+---
+
+## 🚀 Featured Project
+
+[![Distillation Tower Monitor](https://github-readme-stats.vercel.app/api/pin/?username=KonorOko&repo=distillation-tower-monitor)](https://github.com/KonorOko/distillation-tower-monitor)
+
+> **Distillation Tower Monitor:**  
+> Real-time monitoring and control tool for distillation processes, integrating hardware-level data with a modern interface.
+
+---
+
+## 🌐 Connect with Me
+
+- 🌎 [Website](https://konordev.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/koem)
+
+---
+
+## 📊 Stats & Badges
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KonorOko&layout=compact&theme=tokyonight)
+
+---
+
+> _Bridging engineering and code—one project at a time_
