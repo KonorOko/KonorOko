@@ -1,47 +1,42 @@
-# 👋 Hi, I'm Konor
+# Hi, I'm Konor
 
-**Industrial Software Developer** | Chemical Engineering @ UNAM  
-Building the bridge between industrial hardware and modern software.
+**Software Developer** | Chemical Engineering @ UNAM  
 
----
-
-## 👨‍💻 About Me
-
-I specialize in automation, monitoring, and process control for the chemical and manufacturing industries.  
-By combining my background in chemical engineering with modern stacks like **FastAPI, Django, React**, and industrial protocols (**SCADA, Modbus**), I create robust solutions that make machines smarter and processes more efficient.
-
-Currently, I am finishing my degree at **UNAM** and collaborating on control systems and SCADA-style applications. Let’s build something that connects the physical and digital worlds!
-
----
-
-## 🛠️ Top Skills
-
-- **Languages:** Python, JavaScript, TypeScript, Rust
-- **Frameworks:** FastAPI, Django, React, Tauri
-- **Industrial:** SCADA, Modbus, Automation, Process Control
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-b7410e?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-e0942f?style=flat-square&logo=tauri&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Project
+## About Me
 
-[![Distillation Tower Monitor](https://github-readme-stats.vercel.app/api/pin/?username=KonorOko&repo=distillation-tower-monitor)](https://github.com/KonorOko/distillation-tower-monitor)
+I’m a **software developer** with experience building applications that connect **hardware + data + interfaces**.  
+My background in chemical engineering helps me design systems that are reliable, safe, and ready for real-world industrial conditions.
 
-> **Distillation Tower Monitor:**  
-> Real-time monitoring and control tool for distillation processes, integrating hardware-level data with a modern interface.
+I work across the full stack, with strengths in:
 
----
+- **Desktop apps with Rust + Tauri 2.0**
+- **Modern frontend (React + TypeScript)**
+- **Backend APIs (FastAPI, Django, Node)**
+- **Industrial and IoT communication** (Modbus, MQTT, WebSockets)
+- **Real-time monitoring dashboards and SCADA-like interfaces**
 
-## 🌐 Connect with Me
+Currently finishing my degree at **UNAM**, while working on projects that bridge software engineering with automation and data-driven control.
 
-- 🌎 [Website](https://konordev.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/koem)
-
----
-
-## 📊 Stats & Badges
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KonorOko&layout=compact&theme=tokyonight)
+I love building tools that turn raw signals into meaningful insights.
 
 ---
 
-> _Bridging engineering and code—one project at a time_
+## Connect with Me
+
+- **Portfolio:** https://konordev.vercel.app  
+- **LinkedIn:** https://www.linkedin.com/in/koem  
